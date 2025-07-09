@@ -17,6 +17,7 @@ This cybersecurity portfolio showcases projects and tasks completed during my jo
 | Project | Description | Skills/Knowledge Gained |
 |---------|-------------|-------------------------|
 | [1 - Conduct an Audit](1%20-%20Conduct%20an%20Audit/) | Security audit and risk assessment for Botium Toys | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CIA triad |
+| [2 - Network Security](2%20-%20Network%20Security/) | Network security analysis, vulnerability assessment, and firewall configuration | Network Protocol Analysis, Traffic Analysis, Vulnerability Assessment, Firewall Configuration, DNS Security, Incident Response |
 
 ### Project Details
 
@@ -34,6 +35,21 @@ This cybersecurity portfolio showcases projects and tasks completed during my jo
   - Threat modeling
   - Security policy development
 
+#### 2 - Network Security
+- **Projects**: Multiple network security assessments and configurations
+- **Scope**: Network protocol analysis, vulnerability assessment, firewall optimization
+- **Deliverables**:
+  - Network traffic analysis and incident response
+  - Vulnerability assessment reports
+  - Firewall configuration and optimization
+  - Security policy recommendations
+- **Key Skills Applied**:
+  - Network protocol analysis (DNS, UDP, ICMP)
+  - Traffic capture and analysis using tcpdump
+  - Vulnerability scanning and assessment
+  - Firewall configuration and management
+  - Network security architecture
+
 ### Skills & Competencies
 
 **Security Frameworks & Standards:**
@@ -47,10 +63,20 @@ This cybersecurity portfolio showcases projects and tasks completed during my jo
 - Vulnerability Assessment
 - Compliance Evaluation
 
+**Network Security:**
+- Network Protocol Analysis
+- Traffic Analysis and Monitoring
+- Firewall Configuration
+- Network Vulnerability Assessment
+- DNS Security and Troubleshooting
+
 **Tools & Technologies:**
 - Google Workspace (Drive, Docs, Sheets, Slides)
 - Markdown Documentation
 - Security Assessment Tools
+- Network Analysis Tools (tcpdump, Wireshark, Nmap)
+- Firewall Management (Cisco ASA, Palo Alto)
+- Vulnerability Scanning (Nessus, OpenVAS)
 
 ### Certifications & Education
 
